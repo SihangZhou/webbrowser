@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0B3F2368-FFB1-414E-B5A1-663AD0B19325}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebmindBrowser</RootNamespace>
+    <AssemblyName>WebmindBrowser</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <ApplicationIcon>browser.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DictSeg, Version=1.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\DictSeg.dll</HintPath>
+    </Reference>
+    <Reference Include="FTAlgorithm, Version=1.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\FTAlgorithm.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.OpenJDK.Core, Version=0.40.0.1, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\IKVM.OpenJDK.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.Runtime, Version=0.40.0.1, Culture=neutral, PublicKeyToken=13235d27fcbfff58, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\IKVM.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Lucene.Net, Version=2.3.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\Lucene.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="MdiTabStrip, Version=1.5.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\MdiTabStrip.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="ToolBox, Version=1.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\ToolBox.dll</HintPath>
+    </Reference>
+    <Reference Include="weka, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\weka.dll</HintPath>
+    </Reference>
+    <Reference Include="ZedGraph, Version=5.0.9.41461, Culture=neutral, PublicKeyToken=02a83cbd123fcd60, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Lib\ZedGraph.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analysis\BehaviorFeatureAnalysis.cs" />
+    <Compile Include="Analysis\CommonMethod.cs" />
+    <Compile Include="Analysis\ContentAnalysis.cs" />
+    <Compile Include="Analysis\Recommendation.cs" />
+    <Compile Include="Analysis\Statistical.cs" />
+    <Compile Include="Analysis\ThreadManagement.cs" />
+    <Compile Include="Analysis\UrlAnalysis.cs" />
+    <Compile Include="BehaviorSurvey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BehaviorSurvey.Designer.cs">
+      <DependentUpon>BehaviorSurvey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classification\ChineseSpliter.cs" />
+    <Compile Include="Classification\ChineseToEnglish.cs" />
+    <Compile Include="Classification\ContentClassification.cs" />
+    <Compile Include="Classification\EmotionClassification.cs" />
+    <Compile Include="Classification\KTDictSegAnalyzer.cs" />
+    <Compile Include="Classification\KTDictSegTokenizer.cs" />
+    <Compile Include="Classification\MessageClassifier.cs" />
+    <Compile Include="ExBrowser\BrowserExtendedNavigatingEventArgs.cs" />
+    <Compile Include="ExBrowser\ExtendedWebBrowser.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ExBrowser\NativeMethods.cs" />
+    <Compile Include="ExBrowser\PopupBlockerFilterLevel.cs" />
+    <Compile Include="ExBrowser\Resources.Designer.cs" />
+    <Compile Include="ExBrowser\Settings.Designer.cs" />
+    <Compile Include="ExBrowser\SettingsHelper.cs" />
+    <Compile Include="ExBrowser\UnsafeNativeMethods.cs" />
+    <Compile Include="ExBrowser\UrlContext.cs" />
+    <Compile Include="EmotionTracking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmotionTracking.Designer.cs">
+      <DependentUpon>EmotionTracking.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmotionSuggestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmotionSuggestion.Designer.cs">
+      <DependentUpon>EmotionSuggestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.Designer.cs">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Open.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Open.Designer.cs">
+      <DependentUpon>Open.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaticHelperClass.cs" />
+    <Compile Include="TaskbarNotifier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UrlHistory\urlhist.cs" />
+    <Compile Include="UrlHistory\UrlHistoryWrapper.cs" />
+    <Compile Include="UrlHistory\UrlRecordEntity.cs" />
+    <Compile Include="UrlHistory\Win32api.cs" />
+    <Compile Include="WebView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebView.Designer.cs">
+      <DependentUpon>WebView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebView.resx">
+      <DependentUpon>WebView.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BehaviorSurvey.resx">
+      <DependentUpon>BehaviorSurvey.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmotionTracking.resx">
+      <DependentUpon>EmotionTracking.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmotionSuggestion.resx">
+      <DependentUpon>EmotionSuggestion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyDragTab.cur">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Open.resx">
+      <DependentUpon>Open.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resources\back_previous.png" />
+    <Content Include="browser.ico" />
+    <Content Include="Resources\DocumentHS.png" />
+    <Content Include="Resources\EditTableHS.png" />
+    <EmbeddedResource Include="Resources\Images\close.bmp" />
+    <EmbeddedResource Include="Resources\forward_next.png" />
+    <None Include="Resources\icpage.png" />
+    <EmbeddedResource Include="Resources\Images\skini.png" />
+    <EmbeddedResource Include="Resources\Images\ToolBox_Large.png" />
+    <EmbeddedResource Include="Resources\Images\ToolBox_Small.png" />
+    <Content Include="Resources\NewDocumentHS.png" />
+    <EmbeddedResource Include="Resources\no.png" />
+    <Content Include="Resources\openHS.png" />
+    <Content Include="Resources\OptionsHS.png" />
+    <Content Include="Resources\PrintHS.png" />
+    <EmbeddedResource Include="Resources\reload.png" />
+    <None Include="Resources\psycare.png" />
+    <Content Include="Resources\saveHS.png" />
+    <EmbeddedResource Include="Resources\shield.png" />
+    <EmbeddedResource Include="Resources\zoom.png" />
+    <EmbeddedResource Include="TaskbarNotifier.resx">
+      <DependentUpon>TaskbarNotifier.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

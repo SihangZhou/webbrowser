@@ -1,0 +1,198 @@
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\bin\Debug\MyDragTab.cur
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.pdb
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\bin\Debug\MdiTabStrip.dll
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\bin\Debug\ToolBox.dll
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\ResolveAssemblyReference.cache
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.MainWindow.resources
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.WebView.resources
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Properties.Resources.resources
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Open.resources
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csproj.GenerateResource.Cache
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+I:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+G:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+G:\项目资料备份\浏览器平台建设\浏览器源代码\Browser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\MyDragTab.cur
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.pdb
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\DictSeg.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\FTAlgorithm.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Core.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.Runtime.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\Lucene.Net.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\MdiTabStrip.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\ToolBox.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\weka.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\ZedGraph.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Misc.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.Runtime.JNI.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Security.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.XML.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Management.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Corba.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Text.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Util.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\ResolveAssemblyReference.cache
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.MainWindow.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.WebView.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Properties.Resources.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.BehaviorSurvey.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionTracking.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionSuggestion.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Form1.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Open.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.TaskbarNotifier.resources
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csproj.GenerateResource.Cache
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+d:\我的文档\桌面\朱老师\浏览器\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\MyDragTab.cur
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.XML.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.MainWindow.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.WebView.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.BehaviorSurvey.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionTracking.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionSuggestion.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Form1.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Open.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.TaskbarNotifier.resources
+C:\Documents and Settings\Administrator\桌面\浏览器小图标相关\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\MyDragTab.cur
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.XML.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.MainWindow.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.WebView.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.BehaviorSurvey.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionTracking.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionSuggestion.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Form1.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Open.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.TaskbarNotifier.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.MainWindow.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.WebView.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.BehaviorSurvey.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionTracking.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionSuggestion.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Form1.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Open.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.TaskbarNotifier.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\MyDragTab.cur
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.XML.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\MyDragTab.cur
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.MainWindow.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.WebView.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.BehaviorSurvey.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionTracking.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionSuggestion.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Form1.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Open.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.TaskbarNotifier.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem1\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\MyDragTab.cur
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.pdb
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.MainWindow.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.WebView.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.BehaviorSurvey.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionTracking.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionSuggestion.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Form1.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Open.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.TaskbarNotifier.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.AddFavorites.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.DeleteBrowsingHistory.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Help.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.About.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.FeedBack.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.FindInPage.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.RenameLink.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.OrganizeFavorites.resources
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\Lucene.Net.dll
+C:\Documents and Settings\Administrator\桌面\浏览器+分词+bayes\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.InternetOption.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe.config
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.pdb
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\MyDragTab.cur
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.exe
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\WebmindBrowser.pdb
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\bin\Debug\Lucene.Net.dll
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csprojResolveAssemblyReference.cache
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.MainWindow.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.WebView.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Properties.Resources.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.About.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.AddFavorites.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.BehaviorSurvey.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.DeleteBrowsingHistory.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionTracking.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.EmotionSuggestion.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.FeedBack.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.FindInPage.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Form1.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Help.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.InternetOption.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.Open.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.OrganizeFavorites.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.RenameLink.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.TaskbarNotifier.resources
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.csproj.GenerateResource.Cache
+E:\ChromeDownloads\WebMindSystem_kosko集成版\WebMindSystem_kosko集成版\WebmindBrowser\WebmindBrowser\WebmindBrowser\obj\Debug\WebmindBrowser.exe.manifest

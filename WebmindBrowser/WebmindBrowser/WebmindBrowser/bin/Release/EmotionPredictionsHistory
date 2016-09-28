@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Predictions>
+  <Record Time="-8589066809367432058">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589066809187588308">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589066809007588308">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589066808827588308">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589066808647588308">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589066808467588308">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589066808287588308">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589065905912744558">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589065905733213308">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>0.288</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+  <Record Time="-8589065905553213308">
+    <SOM>-0.449</SOM>
+    <DEP>25.604</DEP>
+    <ANX>-0.807</ANX>
+    <PSD>2.318</PSD>
+    <HYP>0.310999999999999</HYP>
+    <UNR>0.529</UNR>
+    <HMA>-3.208</HMA>
+  </Record>
+</Predictions>

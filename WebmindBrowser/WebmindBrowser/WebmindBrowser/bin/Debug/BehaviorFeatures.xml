@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<EmotionTracking>
+  <PSI>
+    <!-- 您在社交网络网站中的主要行为包括？【多选】 -->
+    <Behavior_A>1</Behavior_A>
+    <Behavior_B>1</Behavior_B>
+    <Behavior_C>0</Behavior_C>
+    <Behavior_D>0</Behavior_D>
+    <Behavior_E>0</Behavior_E>
+    <Behavior_F>0</Behavior_F>
+    <Behavior_G>0</Behavior_G>
+    <Behavior_H>1</Behavior_H>
+    <Behavior_I>0</Behavior_I>
+    <!-- 您一般每天会使用多长时间的即时通讯软件？【单选】 -->
+    <IMActiveTimeA>0</IMActiveTimeA>
+    <IMActiveTimeB>0</IMActiveTimeB>
+    <IMActiveTimeC>0</IMActiveTimeC>
+    <IMActiveTimeD>0</IMActiveTimeD>
+    <IMActiveTimeE>1</IMActiveTimeE>
+    <!-- 您即时通讯软件上的好友数大概是?【单选】 -->
+    <IMFriends10>0</IMFriends10>
+    <IMFriends10_50>0</IMFriends10_50>
+    <IMFriends50_100>0</IMFriends50_100>
+    <IMFriends100_200>1</IMFriends100_200>
+    <IMFriends200>0</IMFriends200>
+    <!-- 平均而言，您每天联络的网友人数大约是?【单选】 -->
+    <ContactFriends2>0</ContactFriends2>
+    <ContactFriends2_5>1</ContactFriends2_5>
+    <ContactFriends5_10>0</ContactFriends5_10>
+    <ContactFriends10_20>0</ContactFriends10_20>
+    <ContactFriends20>0</ContactFriends20>
+  </PSI>
+  <PAN>
+    <!-- 互联网信息也可以从情感角度进行分类 -->
+    <Happy>3</Happy>
+    <Anger>2</Anger>
+    <Sadness>2</Sadness>
+    <Fear>2</Fear>
+    <Peculiar>3</Peculiar>
+    <Moving>3</Moving>
+    <Warm>3</Warm>
+    <Sympathy>3</Sympathy>
+  </PAN>
+  <PFN>
+    <!-- 互联网提供给我们许多使用功能，这使我们的网上生活丰富多彩 -->
+    <Email>5</Email>
+    <BrowseNews>5</BrowseNews>
+    <SearchEngine>5</SearchEngine>
+    <Downloading>3</Downloading>
+    <BrowseWebSite>4</BrowseWebSite>
+    <Chatting>5</Chatting>
+    <BBSForum>3</BBSForum>
+    <HomeSpace>3</HomeSpace>
+    <OnlineGames>2</OnlineGames>
+    <OnlineShopping>3</OnlineShopping>
+    <OnlineEducation>2</OnlineEducation>
+    <SMS>2</SMS>
+    <E-zine>2</E-zine>
+    <Booking>2</Booking>
+    <Multimedia>3</Multimedia>
+    <Recruitment>3</Recruitment>
+    <Classmates>4</Classmates>
+    <SpanNoPurpose>2</SpanNoPurpose>
+  </PFN>
+  <PSM>
+    <!-- 使用搜索引擎进行信息检索时，您一般会选择哪种检索手段？【多选】 -->
+    <SingleKeyword>0</SingleKeyword>
+    <MultipleKeywords>1</MultipleKeywords>
+    <Advanced>1</Advanced>
+    <CategorySearch>0</CategorySearch>
+    <Others>0</Others>
+  </PSM>
+  <PTN>
+    <!-- 您对不同类别的网络内容的关注频度。 -->
+    <IT>1</IT>
+    <OnlineGames>1</OnlineGames>
+    <Health>1</Health>
+    <News>2</News>
+    <Entertainment>1</Entertainment>
+    <Research>3</Research>
+    <Science>2</Science>
+    <Shopping>1</Shopping>
+    <Social>2</Social>
+    <Sports>1</Sports>
+  </PTN>
+  <ONB>
+    <!-- 一般来说，周六和周日您平均每天上网的时间是?【单选】-->
+    <Weekend3>1</Weekend3>
+    <Weekend3_4>0</Weekend3_4>
+    <Weekend4_6>0</Weekend4_6>
+    <Weekend6_9>0</Weekend6_9>
+    <Weekend9_12>0</Weekend9_12>
+    <Weekend12>0</Weekend12>
+    <!--- 一般来说，周一到周五您平均每天上网的时间是?【单选】 -->
+    <WorkDay2>0</WorkDay2>
+    <WorkDay2_6>0</WorkDay2_6>
+    <WorkDay6_10>1</WorkDay6_10>
+    <WorkDay10_12>0</WorkDay10_12>
+    <WorkDay12>0</WorkDay12>
+    <!-- 您一般每天会使用多长时间的社交网络？【单选】 -->
+    <SocialNetworkingA>0</SocialNetworkingA>
+    <SocialNetworkingB>0</SocialNetworkingB>
+    <SocialNetworkingC>1</SocialNetworkingC>
+    <SocialNetworkingD>0</SocialNetworkingD>
+    <SocialNetworkingE>0</SocialNetworkingE>
+    <!--  您多数情况下在什么时间上网? 【单选】 -->
+    <StartTimeA>0</StartTimeA>
+    <StartTimeB>1</StartTimeB>
+    <StartTimeC>0</StartTimeC>
+    <StartTimeD>0</StartTimeD>
+    <StartTimeE>0</StartTimeE>
+    <StartTimeF>0</StartTimeF>
+    <StartTimeG>0</StartTimeG>
+    <!-- 一般情况下，您在每个网页上的平均停留时间大概是?【单选】 -->
+    <StaySecondA>0</StaySecondA>
+    <StaySecondB>1</StaySecondB>
+    <StaySecondC>0</StaySecondC>
+    <StaySecondD>0</StaySecondD>
+    <StaySecondE>0</StaySecondE>
+    <StaySecondF>0</StaySecondF>
+    <!-- 自己每天的“主动网络行为”约占上网时间的百分比-->
+    <Active1_20>0</Active1_20>
+    <Active21_40>1</Active21_40>
+    <Active41_60>0</Active41_60>
+    <Active61_80>0</Active61_80>
+    <Active81_100>0</Active81_100>
+  </ONB>
+  <OBV>
+    <!-- 性别： 男：0  女：1 -->
+    <Gender>0</Gender>
+    <Age>25</Age>
+    <!--  一般情况下，您最常使用的开始网络浏览的方式是?【单选】 -->
+    <StartBrowsingA>0</StartBrowsingA>
+    <StartBrowsingB>1</StartBrowsingB>
+    <StartBrowsingC>0</StartBrowsingC>
+    <StartBrowsingD>0</StartBrowsingD>    
+    <!-- 您平均每周主动去浏览不良信息（色情/暴力等）网站的次数是? 【单选】 -->
+    <UnhealthyWeb0>0</UnhealthyWeb0>
+    <UnhealthyWeb1>0</UnhealthyWeb1>
+    <UnhealthyWeb2>1</UnhealthyWeb2>
+    <UnhealthyWeb3_6>0</UnhealthyWeb3_6>
+    <UnhealthyWeb6>0</UnhealthyWeb6>    
+    <!-- 平均而言，您每天进行的搜索次数大概是?【单选】 -->
+    <SearchCount5>0</SearchCount5>
+    <SearchCount5_10>0</SearchCount5_10>
+    <SearchCount10_20>0</SearchCount10_20>
+    <SearchCount20_30>0</SearchCount20_30>
+    <SearchCount30_50>0</SearchCount30_50>
+    <SearchCount50>1</SearchCount50>    
+    <!-- 您每天花在网络游戏的时间是多少？【单选】  -->
+    <OnlineGamesTimeA>1</OnlineGamesTimeA>
+    <OnlineGamesTimeB>0</OnlineGamesTimeB>
+    <OnlineGamesTimeC>0</OnlineGamesTimeC>
+    <OnlineGamesTimeD>0</OnlineGamesTimeD>
+    <OnlineGamesTimeE>0</OnlineGamesTimeE>
+    <OnlineGamesTimeF>0</OnlineGamesTimeF>    
+  </OBV>
+</EmotionTracking>
